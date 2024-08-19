@@ -1,3 +1,6 @@
+
+This will help understand the conflicts better
+=======
 These are common Git commands used in various situations:
 
 Thank you so much.
@@ -11,3 +14,4 @@ examine the history and state (see also: git help revisions) bisect Use binary s
 grow, mark and tweak your common history branch List, create, or delete branches commit Record changes to the repository merge Join two or more development histories together rebase Reapply commits on top of another base tip reset Reset current HEAD to the specified state switch Switch branches tag Create, list, delete or verify a tag object signed with GPG
 
 collaborate (see also: git help workflows) fetch Download objects and refs from another repository pull Fetch from and integrate with another repository or a local branch push Update remote refs along with associated objects
+
