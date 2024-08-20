@@ -5,6 +5,8 @@ These are common Git commands used in various situations:
 =======
 
 Thank you so much you have been very help full.
+wow, that so nice of you.
+We should meet sometime.
 =======
 
 start a working area (see also: git help tutorial) clone Clone a repository into a new directory init Create an empty Git repository or reinitialize an existing one
