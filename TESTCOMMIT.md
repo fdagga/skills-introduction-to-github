@@ -3,7 +3,7 @@ This will help understand the conflicts better
 =======
 These are common Git commands used in various situations:
 =======
-Thank you so much.
+ much.
 ==========
 start a working area (see also: git help tutorial) clone Clone a repository into a new directory init Create an empty Git repository or reinitialize an existing one
 ====
