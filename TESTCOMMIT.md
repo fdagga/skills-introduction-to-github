@@ -5,10 +5,8 @@ These are common Git commands used in various situations:
 =======
 
 Thank you so much you have been very help full.
-
 wow, that so nice of you.
 We should meet sometime.
-
 Most certainly. You are welcome.
 
 =======
